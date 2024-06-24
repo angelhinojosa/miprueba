@@ -15,7 +15,8 @@
 ###  git@github.com:angelhinojosa/miprueba.git
 <p>He configurado la conexión ssh</p>
 
-### git clone git@github.com:angelhinojosa/miprueba.git
+### git remote add origin git@github.com:angelhinojosa/miprueba.git
+### git push -u origin main
 
 <img src="./images/verificar_conexion.png" alt="Imagen Conexion" title="Imagen Conexión">
 
