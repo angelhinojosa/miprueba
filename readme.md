@@ -59,6 +59,9 @@ title="Captura push Development">
 
 ### git push
 
+<p> Vuelvo a repetir creando una nueva rama para ver si consigo ver porque
+no me muestra el dibujo de las ramas con el git log..... Rama Prueba 1</p>
+
 
 
 
