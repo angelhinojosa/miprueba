@@ -51,6 +51,15 @@
 <img src="./images/Captura push development.png" alt="Captura push Development"
 title="Captura push Development">
 
+## 5. Hacer un merge
+
+### git checkout main
+
+### git merge development -m "mezclado development"
+
+
+
+
 
 
 
