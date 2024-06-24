@@ -55,7 +55,10 @@ title="Captura push Development">
 
 ### git checkout main
 
-### git merge development -m "mezclado development"
+### git merge development -m "mezclado development businees.js"
+
+### git push
+
 
 
 
