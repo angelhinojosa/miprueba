@@ -62,7 +62,10 @@ title="Captura push Development">
 <p> Vuelvo a repetir creando una nueva rama para ver si consigo ver porque
 no me muestra el dibujo de las ramas con el git log..... Rama Prueba 1</p>
 
+<p> Nada no lo consigo, adjunto captura.</p>
 
+<img src="./images/Captura merge_git log.png" alt="Captura merge prueba1"
+title="Captura merge prueba1">
 
 
 
