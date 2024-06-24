@@ -34,6 +34,26 @@
 
 <img src="./images/captura commit.png" alt="Caputa Commit en remote" title="Captura Commit en remote">
 
+## 4. Crear una rama
+
+### git brach development
+
+### git checkout development
+
+<img src="./images/Captura rama development.png" alt="Captura rama Development" tiitle="Captura rama Development">
+
+### git add .
+
+### git commit -a -m "Añado captura rama Development"
+
+### git push
+
+<img src="./images/Captura push development.png" alt="Captura push Development"
+title="Captura push Development">
+
+
+
+
 
 
 
